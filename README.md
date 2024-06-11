@@ -1,2 +1,2 @@
 # Phần mềm quản lý bãi giữ xe 
-ngôn dữ sử dụng : Java
+ngôn ngữ sử dụng : Java
